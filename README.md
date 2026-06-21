@@ -21,5 +21,21 @@ SkillSync AI is a multi-agent resume intelligence platform that evaluates resume
 - PyPDF2
 - Prompt Engineering
 
+## Home Screen
+
+![Home](screenshots/home.png)
+
+## ATS Analysis
+
+![Analysis](screenshots/analysis.png)
+
+## Resume Review
+
+![Review](screenshots/review.png)
+
+## Interview Preparation
+
+![Interview](screenshots/interview.png)
+
 ## Live Demo
 https://skillsync-ai-project.streamlit.app
