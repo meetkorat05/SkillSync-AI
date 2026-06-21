@@ -23,7 +23,7 @@ SkillSync AI is a multi-agent resume intelligence platform that evaluates resume
 
 ## Home Screen
 
-![Home](screenshots/home.png)
+![Home](screenshots/image.png)
 
 ## ATS Analysis
 
