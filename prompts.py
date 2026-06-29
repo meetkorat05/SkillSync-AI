@@ -15,7 +15,9 @@ Resume:
 {}
 """
 
-subagent_desc = {"Impact": {
+subagent_desc = {
+    
+"Impact": {
 "Quantify impact": "Use specific numbers, percentages, or metrics to demonstrate the scale and significance of your achievements.",
 "Repetition": "Maintain consistent language and terminology, but avoid repeating the same phrases or descriptions across multiple sections.",
 "Weak verbs": "Use strong, action-oriented verbs to effectively convey your contributions and responsibilities.",
@@ -23,11 +25,13 @@ subagent_desc = {"Impact": {
 "Responsibilities": "Focus on key duties and tasks tailored to the job you're applying for, rather than generic job descriptions.",
 "Spelling & consistency": "Ensure your resume is free of errors and maintains consistent formatting, capitalization, and punctuation."
 },
+    
 "Brevity":{
 "Length": "Keep your resume concise, typically one page, up to two pages for extensive experience.",
 "Bullet Lengths": "Maintain concise bullet points, typically 1-2 lines, to highlight the most important information.",
 "Filler Words": "Minimize the use of filler words to maximize the impact and conciseness of your resume."
 },
+    
 "Style": {
     "Buzzwords": "Ensure your resume includes relevant industry-specific keywords and buzzwords that match the job description.",
     "Dates": "Format your employment dates consistently (e.g. MM/YYYY) and ensure there are no unexplained gaps in your work history.",
@@ -37,12 +41,14 @@ subagent_desc = {"Impact": {
     "Active Voice": "Use active voice to describe your responsibilities and accomplishments, making your resume more impactful.",
     "Consistency": "Maintain consistent formatting, language, and style throughout your resume to present a professional and polished document."
 },
+    
 "Sections": {
     "Summary": "A concise overview of your key qualifications, experience, and career goals.",
     "Education": "Details about your academic background, including degrees, schools, and relevant coursework or achievements.",
     "Unnecessary Sections": "Sections that may not be relevant or add value to your resume, such as hobbies, interests, or irrelevant work experience.",
     "Skills": "A list of your relevant technical, soft, and transferable skills that demonstrate your capabilities."
 }
+    
 }
 
 agent_desc = {
